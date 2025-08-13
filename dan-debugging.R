@@ -131,3 +131,5 @@
   
   save(indiv_par_est, file=file.path(getwd(), "outputs", "bart_par4.Rdata"))
   
+  
+  ## make sure to save subID here
